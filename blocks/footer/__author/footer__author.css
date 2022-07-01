@@ -8,6 +8,6 @@
 
 @media screen and (max-width: 540px) {
   .footer__author {
-    margin: 3rem 0 0;
+    padding: 48px 0 24px 16px;
   }
 }
